@@ -8,17 +8,26 @@ The lake is slippery. The goal is to reach the frisbee at the goal tile (`G`) wi
 ---
 
 ## 🎯 Environment Layout
-S F F F
-F H F H
-F F F H
-H F F G
 
 - `S`: Start  
 - `F`: Frozen, safe  
 - `H`: Hole, fall in = lose  
-- `G`: Goal, reach = win  
-
+- `G`: Goal, reach = win
+   
+<pre>
+S F F F
+F H F H
+F F F H
+H F F G
+  </pre>
 ---
+
+## 🛠️ Technologies
+
+- Python
+- NumPy
+- OpenAI Gym
+- Jupyter Notebook
 
 ## 💡 How It Works
 
