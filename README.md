@@ -19,7 +19,7 @@ S F F F
 F H F H
 F F F H
 H F F G
-  </pre>
+</pre>
 ---
 
 ## 🛠️ Technologies
